@@ -1,0 +1,14 @@
+E:\Users\Ibrahim\Desktop\MonoArphabitic\bin\Debug\net9.0\MonoArphabitic.exe
+E:\Users\Ibrahim\Desktop\MonoArphabitic\bin\Debug\net9.0\MonoArphabitic.deps.json
+E:\Users\Ibrahim\Desktop\MonoArphabitic\bin\Debug\net9.0\MonoArphabitic.runtimeconfig.json
+E:\Users\Ibrahim\Desktop\MonoArphabitic\bin\Debug\net9.0\MonoArphabitic.dll
+E:\Users\Ibrahim\Desktop\MonoArphabitic\bin\Debug\net9.0\MonoArphabitic.pdb
+E:\Users\Ibrahim\Desktop\MonoArphabitic\obj\Debug\net9.0\MonoArphabitic.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\Ibrahim\Desktop\MonoArphabitic\obj\Debug\net9.0\MonoArphabitic.AssemblyInfoInputs.cache
+E:\Users\Ibrahim\Desktop\MonoArphabitic\obj\Debug\net9.0\MonoArphabitic.AssemblyInfo.cs
+E:\Users\Ibrahim\Desktop\MonoArphabitic\obj\Debug\net9.0\MonoArphabitic.csproj.CoreCompileInputs.cache
+E:\Users\Ibrahim\Desktop\MonoArphabitic\obj\Debug\net9.0\MonoArphabitic.dll
+E:\Users\Ibrahim\Desktop\MonoArphabitic\obj\Debug\net9.0\refint\MonoArphabitic.dll
+E:\Users\Ibrahim\Desktop\MonoArphabitic\obj\Debug\net9.0\MonoArphabitic.pdb
+E:\Users\Ibrahim\Desktop\MonoArphabitic\obj\Debug\net9.0\MonoArphabitic.genruntimeconfig.cache
+E:\Users\Ibrahim\Desktop\MonoArphabitic\obj\Debug\net9.0\ref\MonoArphabitic.dll
